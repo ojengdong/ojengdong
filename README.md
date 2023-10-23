@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=200&section=header&text=Hi%20There👋&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There👋&fontSize=90" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
@@ -6,4 +6,9 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=JQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojengdong&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ojengdong&show_icons=true">
 </div>
